@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "p5hatty";
+    src: url('src/fonts/p5hatty.ttf') format('truetype');
+}
+@font-face {
+    font-family: "p5menu";
+    src: url('src/fonts/p5menu.ttf') format('truetype');
+}

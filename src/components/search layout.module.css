@@ -1,0 +1,26 @@
+input {
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 250px;
+}
+
+.search_button {
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+  }
+
+  .search_container {
+    padding-top:0px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    margin: auto;
+    align-self: center;
+    max-width: 500px;
+    font-family:'Lucida Sans';
+    text-align: center;
+  }

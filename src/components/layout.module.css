@@ -1,0 +1,33 @@
+.container {
+    margin: auto;
+    max-width: 500px;
+    font-family: 'p5hatty';
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 2px;
+  }
+  .heading {
+    color: rgb(40,37,141);
+  }
+  .nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+  }
+  .nav-link-item {
+    margin:auto;
+  }
+  .nav-link-text {
+    color: rgb(217, 217, 255);
+  }
+  .site-title {
+    font-size: 3.5rem;
+    color: rgb(21, 29, 166);
+    font-weight: 750;
+    text-align: center;
+  }
+body {
+  background-color: rgb(2, 2, 32);
+  color: rgb(217, 217, 255);
+  text-shadow: rgb(0, 0, 0);
+}
